@@ -2,7 +2,7 @@
 
 ## Description
 
-PennBook is a mimic of Facebook built using a Bootstrap frontend and a Node.js server. We used AWS DynamoDB as the database and stored media in AWS S3. The project was hosted on EC2 and uses AWS EMR and Apache Spark for the newsfeed's big data components. PennBook users can log in, view news posts based on interested topics (as well as search for particular topics), accept/deny friend requests, view friends' posts in chronological order, chat with friends (one on one and in groupchats), post on their own or a friend's wall with text and/or media, view thier visualized friend network, and search all PennBook users as well as view their profiles.
+PennBook is a mimic of Facebook built using a Bootstrap frontend and a Node.js server. We used AWS DynamoDB as the database and stored media in AWS S3. The project was hosted on EC2 and uses AWS EMR and Apache Spark for the newsfeed's big data components. PennBook users can log in, view news posts based on interested topics (as well as search for particular topics), accept/deny friend requests, view friends' posts in chronological order, chat with friends (one on one and in groupchats), post on their own or a friend's wall with text and/or media, view thier visualized friend network, and search all PennBook users as well as view their profiles. Completed December 2021.
 
 ## Team Members
 
